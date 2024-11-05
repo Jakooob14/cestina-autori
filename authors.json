@@ -1,0 +1,142 @@
+[
+  {
+    "name": "William Shakespeare",
+    "works": [
+      "Hamlet",
+      "Romeo a Julie"
+    ]
+  },
+  {
+    "name": "Molière",
+    "works": [
+      "Lakomec",
+      "Tartuffe"
+    ]
+  },
+  {
+    "name": "Johann Wolfgang von Goethe",
+    "works": [
+      "Utrpení mladého Werthera",
+      "Faust"
+    ]
+  },
+  {
+    "name": "Karel Hynek Mácha",
+    "works": [
+      "Máj",
+      "Cikáni"
+    ]
+  },
+  {
+    "name": "Honoré de Balzac",
+    "works": [
+      "Otec Goriot",
+      "Ztracené iluze"
+    ]
+  },
+  {
+    "name": "Gustave Flaubert",
+    "works": [
+      "Paní Bovaryová",
+      "Salambo"
+    ]
+  },
+  {
+    "name": "Lev Nikolajevič Tolstoj",
+    "works": [
+      "Anna Karenina",
+      "Vojna a mír"
+    ]
+  },
+  {
+    "name": "Charles Dickens",
+    "works": [
+      "Oliver Twist",
+      "David Copperfield"
+    ]
+  },
+  {
+    "name": "Alois Jirásek",
+    "works": [
+      "Psohlavci",
+      "F. L. Věk"
+    ]
+  },
+  {
+    "name": "Božena Němcová",
+    "works": [
+      "Babička",
+      "Divá Bára"
+    ]
+  },
+  {
+    "name": "Jan Neruda",
+    "works": [
+      "Povídky malostranské",
+      "Hřbitovní kvítí"
+    ]
+  },
+  {
+    "name": "Karel Havlíček Borovský",
+    "works": [
+      "Tyrolské elegie",
+      "Král Lávra"
+    ]
+  },
+  {
+    "name": "Oscar Wilde",
+    "works": [
+      "Obraz Doriana Graye",
+      "Jak je důležité míti Filipa"
+    ]
+  },
+  {
+    "name": "Franz Kafka",
+    "works": [
+      "Proměna",
+      "Proces"
+    ]
+  },
+  {
+    "name": "Anton Pavlovič Čechov",
+    "works": [
+      "Višňový sad",
+      "Racek"
+    ]
+  },
+  {
+    "name": "Karel Čapek",
+    "works": [
+      "R.U.R.",
+      "Válka s Mloky"
+    ]
+  },
+  {
+    "name": "Jaroslav Hašek",
+    "works": [
+      "Osudy dobrého vojáka Švejka",
+      "Můj obchod se psy"
+    ]
+  },
+  {
+    "name": "Vladislav Vančura",
+    "works": [
+      "Rozmarné léto",
+      "Markéta Lazarová"
+    ]
+  },
+  {
+    "name": "Ernest Hemingway",
+    "works": [
+      "Stařec a moře",
+      "Sbohem, armádo"
+    ]
+  },
+  {
+    "name": "George Orwell",
+    "works": [
+      "1984",
+      "Farma zvířat"
+    ]
+  }
+]
